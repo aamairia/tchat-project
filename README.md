@@ -23,7 +23,7 @@ Ouvrir une invite de commande dans le dossier du projet et taper les commandes s
  1. Editer le fichier app/config.php
  2. Mettre à jours le fichier avec les données de connexion à la base de donnèes
  4. Créer la base de donnée "[NOM DE LA BASE]" et importer le dump sql se trouvant sous dumps/[date]_db_tchat_app.sql
-
+ 5. sous public/ renommer le fichier htaccess.txt a .htaccess
 
 ### Configuration VirtualHost :
 
